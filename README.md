@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 
 <!--
 **Konano/Konano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2 align="center">👋 Hello! I'm Nano.</h2>
+<p align="center">
+  <a href="https://konanoo.com/">
+  Blog · 
+  </a>
+  <a href="https://t.me/NanoApe">
+  Telegram
+  </a>
+</p>
 
 <table style="width:100%">
   <tr>
