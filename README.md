@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/Konano">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Konano&show_icons=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/Konano">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konano&layout=compact" />
-</a>
+<table style="width:100%">
+  <tr>
+    <th><a href="https://github.com/Konano">
+      <img src="https://github-readme-stats.vercel.app/api?username=Konano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+    </a></th>
+    <th><a href="https://github.com/Konano">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konano&layout=compact&langs_count=6" />
+    </a></th>
+  </tr>
+</table>
