@@ -16,22 +16,38 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="center">👋 Hello! I'm Nano.</h2>
+<h5 align="center">
+  <a href="https://t.me/NanoApe">TELEGRAM</a>
+  &emsp;•&emsp;
+  <a href="https://nano.ac/">BLOG</a>
+</h5>
+
 <p align="center">
-  <a href="https://nano.ac/">
-  Blog · 
+  <a href="#">
+    <picture height="200" align="top" >
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=Konano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=Konano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api?username=Konano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+    </picture>
   </a>
-  <a href="https://t.me/NanoApe">
-  Telegram
+  &emsp;
+  <a href="#">
+    <picture height="200" align="top" >
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Konano&hide_border=true&layout=compact&langs_count=8&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Konano&hide_border=true&layout=compact&langs_count=8"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konano&hide_border=true&layout=compact&langs_count=8" />
+    </picture>
   </a>
 </p>
-
-<table style="width:100%">
-  <tr>
-    <th><a href="https://github.com/Konano">
-      <img src="https://github-readme-stats.vercel.app/api?username=Konano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-    </a></th>
-    <th><a href="https://github.com/Konano">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konano&layout=compact&langs_count=8" />
-    </a></th>
-  </tr>
-</table>
