@@ -22,36 +22,29 @@ Here are some ideas to get you started:
   <a href="https://nano.ac/">BLOG</a>
 </h5>
 
-<p align="center">
-  <a href="#">
-    <picture>
-      <source
-              height="200" align="top"
-              srcset="https://github-readme-stats.vercel.app/api?username=Konano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark"
-              media="(prefers-color-scheme: dark)"
-              />
-      <source
-              height="200" align="top"
-              srcset="https://github-readme-stats.vercel.app/api?username=Konano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
-              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-              />
-      <img height="200" align="top" src="https://github-readme-stats.vercel.app/api?username=Konano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-    </picture>
-  </a>
-  &emsp;
-  <a href="#">
-    <picture height="200" align="top" >
-      <source
-              height="200" align="top"
-              srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Konano&hide_border=true&layout=compact&langs_count=8&theme=dark"
-              media="(prefers-color-scheme: dark)"
-              />
-      <source
-              height="200" align="top"
-              srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Konano&hide_border=true&layout=compact&langs_count=8"
-              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-              />
-      <img height="200" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konano&hide_border=true&layout=compact&langs_count=8" />
-    </picture>
-  </a>
-</p>
+<table width="100%" align="center">
+  <tr>
+    <th><a href="#">
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=Konano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark"
+          height="200" media="(prefers-color-scheme: dark)" />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=Konano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
+          height="200" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img height="200" src="https://github-readme-stats.vercel.app/api?username=Konano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+      </picture>
+    </a></th>
+    <th><a href="#">
+      <picture height="200" >
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Konano&hide_border=true&layout=compact&langs_count=8&theme=dark"
+          height="200" media="(prefers-color-scheme: dark)" />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Konano&hide_border=true&layout=compact&langs_count=8"
+          height="200" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konano&hide_border=true&layout=compact&langs_count=8" />
+      </picture>
+    </a></th>
+  </tr>
+</table>
