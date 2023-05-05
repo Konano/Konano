@@ -24,30 +24,34 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="#">
-    <picture height="200" align="top" >
+    <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=Konano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark"
-        media="(prefers-color-scheme: dark)"
-      />
+              height="200" align="top"
+              srcset="https://github-readme-stats.vercel.app/api?username=Konano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark"
+              media="(prefers-color-scheme: dark)"
+              />
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=Konano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img src="https://github-readme-stats.vercel.app/api?username=Konano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+              height="200" align="top"
+              srcset="https://github-readme-stats.vercel.app/api?username=Konano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
+              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+              />
+      <img height="200" align="top" src="https://github-readme-stats.vercel.app/api?username=Konano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
     </picture>
   </a>
   &emsp;
   <a href="#">
     <picture height="200" align="top" >
       <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Konano&hide_border=true&layout=compact&langs_count=8&theme=dark"
-        media="(prefers-color-scheme: dark)"
-      />
+              height="200" align="top"
+              srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Konano&hide_border=true&layout=compact&langs_count=8&theme=dark"
+              media="(prefers-color-scheme: dark)"
+              />
       <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Konano&hide_border=true&layout=compact&langs_count=8"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konano&hide_border=true&layout=compact&langs_count=8" />
+              height="200" align="top"
+              srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Konano&hide_border=true&layout=compact&langs_count=8"
+              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+              />
+      <img height="200" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konano&hide_border=true&layout=compact&langs_count=8" />
     </picture>
   </a>
 </p>
