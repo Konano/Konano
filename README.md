@@ -27,10 +27,10 @@ Here are some ideas to get you started:
     <th><a href="#">
       <picture>
         <source
-          srcset="https://github-readme-stats.vercel.app/api?username=Konano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark"
+          srcset="https://github-readme-stats.vercel.app/api?username=Konano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&theme=dark"
           height="200" media="(prefers-color-scheme: dark)" />
         <source
-          srcset="https://github-readme-stats.vercel.app/api?username=Konano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
+          srcset="https://github-readme-stats.vercel.app/api?username=Konano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=ffffff"
           height="200" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img height="200" src="https://github-readme-stats.vercel.app/api?username=Konano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
       </picture>
@@ -38,10 +38,10 @@ Here are some ideas to get you started:
     <th><a href="#">
       <picture height="200" >
         <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Konano&hide_border=true&layout=compact&langs_count=8&theme=dark"
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Konano&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&theme=dark"
           height="200" media="(prefers-color-scheme: dark)" />
         <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Konano&hide_border=true&layout=compact&langs_count=8"
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Konano&hide_border=true&layout=compact&langs_count=8&bg_color=ffffff"
           height="200" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konano&hide_border=true&layout=compact&langs_count=8" />
       </picture>
