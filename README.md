@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">👋 Hello! I'm Nano.</h2>
 <p align="center">
-  <a href="https://konanoo.com/">
+  <a href="https://nano.ac/">
   Blog · 
   </a>
   <a href="https://t.me/NanoApe">
