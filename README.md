@@ -31,7 +31,7 @@ Here are some ideas to get you started:
       <img src="https://github-readme-stats.vercel.app/api?username=Konano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
     </a></th>
     <th><a href="https://github.com/Konano">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konano&layout=compact&langs_count=6" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konano&layout=compact&langs_count=8" />
     </a></th>
   </tr>
 </table>
