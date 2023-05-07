@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <table width="100%" align="center">
   <tr>
-    <th><a href="#">
+    <th><a href="https://github.com/Konano">
       <picture>
         <source
           srcset="https://github-readme-stats.vercel.app/api?username=Konano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&theme=dark"
@@ -32,10 +32,10 @@ Here are some ideas to get you started:
         <source
           srcset="https://github-readme-stats.vercel.app/api?username=Konano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=ffffff"
           height="200" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img height="200" src="https://github-readme-stats.vercel.app/api?username=Konano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Konano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="200" />
       </picture>
     </a></th>
-    <th><a href="#">
+    <th><a href="https://github.com/Konano">
       <picture height="200" >
         <source
           srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Konano&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&theme=dark"
@@ -43,8 +43,23 @@ Here are some ideas to get you started:
         <source
           srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Konano&hide_border=true&layout=compact&langs_count=8&bg_color=ffffff"
           height="200" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konano&hide_border=true&layout=compact&langs_count=8" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konano&hide_border=true&layout=compact&langs_count=8" height="200" />
+      </picture>
+    </a></th>
+  </tr>
+  <tr>
+    <th colspan="2"><a href="https://github.com/Konano">
+      <picture>
+        <source
+          srcset="https://github-profile-trophy.vercel.app/?username=Konano&column=7&row=1&no-bg=true&theme=onedark"
+          media="(prefers-color-scheme: dark)" />
+        <source
+          srcset="https://github-profile-trophy.vercel.app/?username=Konano&column=7&row=1&no-bg=true"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-profile-trophy.vercel.app/?username=Konano&column=7&row=1&no-bg=true" />
       </picture>
     </a></th>
   </tr>
 </table>
+
+
