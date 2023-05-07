@@ -51,7 +51,7 @@ Here are some ideas to get you started:
     <td colspan="2" align="center"><a href="https://github.com/Konano">
       <picture>
         <source
-          srcset="https://github-profile-trophy.vercel.app/?username=Konano&column=7&row=1&margin-w=8&no-bg=true&theme=onedark"
+          srcset="https://github-profile-trophy.vercel.app/?username=Konano&column=7&row=1&margin-w=8&no-bg=true&no-frame=true&theme=onedark"
           media="(prefers-color-scheme: dark)" />
         <source
           srcset="https://github-profile-trophy.vercel.app/?username=Konano&column=7&row=1&margin-w=8"
