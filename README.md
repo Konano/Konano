@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <table width="100%" align="center">
   <tr>
-    <th><a href="https://github.com/Konano">
+    <td><a href="https://github.com/Konano">
       <picture>
         <source
           srcset="https://github-readme-stats.vercel.app/api?username=Konano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&theme=dark"
@@ -34,8 +34,8 @@ Here are some ideas to get you started:
           height="200" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img src="https://github-readme-stats.vercel.app/api?username=Konano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="200" />
       </picture>
-    </a></th>
-    <th><a href="https://github.com/Konano">
+    </a></td>
+    <td><a href="https://github.com/Konano">
       <picture height="200" >
         <source
           srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Konano&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&theme=dark"
@@ -45,10 +45,10 @@ Here are some ideas to get you started:
           height="200" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konano&hide_border=true&layout=compact&langs_count=8" height="200" />
       </picture>
-    </a></th>
+    </a></td>
   </tr>
   <tr>
-    <th colspan="2"><a href="https://github.com/Konano">
+    <td colspan="2" align="center"><a href="https://github.com/Konano">
       <picture>
         <source
           srcset="https://github-profile-trophy.vercel.app/?username=Konano&column=7&row=1&no-bg=true&theme=onedark"
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img src="https://github-profile-trophy.vercel.app/?username=Konano&column=7&row=1&no-bg=true" />
       </picture>
-    </a></th>
+    </a></td>
   </tr>
 </table>
 
