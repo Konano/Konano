@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <h2 align="center">👋 Hello! I'm Nano.</h2>
 <h5 align="center">
-  <a href="https://t.me/NanoApe">TELEGRAM</a>
+  <a href="https://nano.ac/">Blog</a>
   &emsp;•&emsp;
-  <a href="https://nano.ac/">BLOG</a>
+  <a href="https://t.me/NanoApe">Telegram</a>
 </h5>
 
 <table width="100%" align="center">
@@ -54,9 +54,9 @@ Here are some ideas to get you started:
           srcset="https://github-profile-trophy.vercel.app/?username=Konano&column=7&row=1&margin-w=8&no-bg=true&no-frame=true&theme=onedark"
           media="(prefers-color-scheme: dark)" />
         <source
-          srcset="https://github-profile-trophy.vercel.app/?username=Konano&column=7&row=1&margin-w=8"
+          srcset="https://github-profile-trophy.vercel.app/?username=Konano&column=7&row=1&margin-w=8&no-bg=true&no-frame=true"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-profile-trophy.vercel.app/?username=Konano&column=7&row=1&margin-w=8" />
+        <img src="https://github-profile-trophy.vercel.app/?username=Konano&column=7&row=1&margin-w=8&no-bg=true&no-frame=true" />
       </picture>
     </a></td>
   </tr>
