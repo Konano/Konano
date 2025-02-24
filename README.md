@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="center">👋 Hello! I'm Nano.</h2>
-<h5 align="center">
+<!-- <h5 align="center">
   <a href="https://nano.ac/">Blog</a>
   &emsp;•&emsp;
   <a href="https://t.me/NanoApe">Telegram</a>
-</h5>
+</h5> -->
 
 <table width="100%" align="center">
   <tr>
