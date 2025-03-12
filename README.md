@@ -72,6 +72,7 @@ Here are some ideas to get you started:
       </picture>
     </a></td>
     <td colspan="2" align="center"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+<!-- UTC +8.00 好怪，等有空改成 UTC +08:00 -->
       <picture>
         <source
           srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=Konano&utcOffset=8&border_color=0000&bg_color=0000&theme=nord_dark"
