@@ -85,7 +85,7 @@ Here are some ideas to get you started:
     </a></td>
   </tr>
   <tr>
-    <td colspan="6" align="center"><a href="https://github.com/Konano">
+    <td colspan="6" align="center"><a href="https://github.com/ryo-ma/github-profile-trophy">
       <picture>
         <source
           srcset="https://github-profile-trophy.vercel.app/?username=Konano&column=7&row=1&margin-w=8&no-bg=true&no-frame=true&theme=onedark"
