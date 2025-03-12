@@ -24,42 +24,75 @@ Here are some ideas to get you started:
 
 <table width="100%" align="center">
   <tr>
-    <td><a href="https://github.com/Konano">
+    <td colspan="3" align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
       <picture>
         <source
-          srcset="https://github-readme-stats.vercel.app/api?username=Konano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&theme=dark"
-          height="200" media="(prefers-color-scheme: dark)" />
+          srcset="https://github-readme-stats.vercel.app/api?username=Konano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000&theme=dark"
+          media="(prefers-color-scheme: dark)" />
         <source
-          srcset="https://github-readme-stats.vercel.app/api?username=Konano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=ffffff"
-          height="200" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-readme-stats.vercel.app/api?username=Konano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="200" />
+          srcset="https://github-readme-stats.vercel.app/api?username=Konano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Konano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long" height="100%" />
       </picture>
     </a></td>
-    <td><a href="https://github.com/Konano">
-      <picture height="200" >
+    <td colspan="3" align="center"><a href="https://github.com/denvercoder1/github-readme-streak-stats">
+      <picture>
         <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Konano&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&theme=dark"
-          height="200" media="(prefers-color-scheme: dark)" />
+          srcset="https://github-readme-streak-stats-mirror.vercel.app/?user=Konano&mode=weekly&hide_border=true&background=00000000&theme=dark"
+          media="(prefers-color-scheme: dark)" />
         <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Konano&hide_border=true&layout=compact&langs_count=8&bg_color=ffffff"
-          height="200" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konano&hide_border=true&layout=compact&langs_count=8" height="200" />
+          srcset="https://github-readme-streak-stats-mirror.vercel.app/?user=Konano&mode=weekly&hide_border=true&background=00000000"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-readme-streak-stats-mirror.vercel.app/?user=Konano&mode=weekly&hide_border=true" height="100%" />
       </picture>
     </a></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><a href="https://github.com/Konano">
+    <td colspan="2" align="center"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
       <picture>
         <source
-          srcset="https://github-profile-trophy.vercel.app/?username=Konano&column=7&row=1&margin-w=8&no-bg=true&no-frame=true&theme=onedark"
+          srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/repos-per-language?username=Konano&border_color=0000&bg_color=0000&theme=nord_dark"
           media="(prefers-color-scheme: dark)" />
         <source
-          srcset="https://github-profile-trophy.vercel.app/?username=Konano&column=7&row=1&margin-w=8&no-bg=true&no-frame=true"
+          srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/repos-per-language?username=Konano&border_color=0000&bg_color=0000&theme=nord_bright"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-profile-trophy.vercel.app/?username=Konano&column=7&row=1&margin-w=8&no-bg=true&no-frame=true" />
+        <img src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/repos-per-language?username=Konano&border_color=0000&bg_color=0000" height="100%" />
+      </picture>
+    </a></td>
+    <td colspan="2" align="center"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+      <picture>
+        <source
+          srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/most-commit-language?username=Konano&border_color=0000&bg_color=0000&theme=nord_dark"
+          media="(prefers-color-scheme: dark)" />
+        <source
+          srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/most-commit-language?username=Konano&border_color=0000&bg_color=0000&theme=nord_bright"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/most-commit-language?username=Konano&border_color=0000&bg_color=0000" height="100%" />
+      </picture>
+    </a></td>
+    <td colspan="2" align="center"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+      <picture>
+        <source
+          srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=Konano&utcOffset=8&border_color=0000&bg_color=0000&theme=nord_dark"
+          media="(prefers-color-scheme: dark)" />
+        <source
+          srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=Konano&utcOffset=8&border_color=0000&bg_color=0000&theme=nord_bright"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=Konano&utcOffset=8&border_color=0000&bg_color=0000" height="100%" />
+      </picture>
+    </a></td>
+  </tr>
+  <tr>
+    <td colspan="6" align="center"><a href="https://github.com/Konano">
+      <picture>
+        <source
+          srcset="https://github-profile-trophy.vercel.app/?username=Konano&column=7&row=1&margin-w=15&no-bg=true&no-frame=true&theme=onedark"
+          media="(prefers-color-scheme: dark)" />
+        <source
+          srcset="https://github-profile-trophy.vercel.app/?username=Konano&column=7&row=1&margin-w=15&no-bg=true&no-frame=true"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-profile-trophy.vercel.app/?username=Konano&column=7&row=1&margin-w=15&no-bg=true&no-frame=true" width="100%" />
       </picture>
     </a></td>
   </tr>
 </table>
-
-
