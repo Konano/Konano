@@ -48,6 +48,7 @@ Here are some ideas to get you started:
     </a></td>
   </tr>
   <tr>
+<!-- Thanks @zetaloop! -->
     <td colspan="2" align="center"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
       <picture>
         <source
